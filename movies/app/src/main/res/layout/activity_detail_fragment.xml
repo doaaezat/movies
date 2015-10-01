@@ -1,0 +1,18 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dododo.finalproject.DetailFragment"
+    android:id="@+id/Movie_detail_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MergeRootFrame"
+    android:name="com.example.dododo.finalproject.DetailFragmentFragment"
+    tools:layout="@layout/fragment_detail" />
+
+
+
+
+
+
+
+
+

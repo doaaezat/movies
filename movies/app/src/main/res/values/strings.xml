@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">finalproject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="sort_by">Sorting</string>
+    <string name="sort_by_most_popular"> Most_popular </string>
+    <string name="sort_by_highest_rated"> Highest_rated </string>
+    <string name="pref_units_key" translatable="false">units</string>
+    <string name="pref_most_popular" translatable="false"> most_popular</string>
+     <string name="pref_highest_rated" translatable="false"> highest_rated</string>
+    <string name="title_activity_detail_fragment">DetailFragment</string>
+</resources>
